@@ -29,7 +29,7 @@ public class Main {
         // int limit = scan.nextInt();
         long limit = scan.nextLong();
         scan.close();
-        System.out.println("Number of prime numbers to the limit of " + limit + " is: " + primeNumbers(limit));
+        System.out.println("Number of prime numbers to the limit of " + limit + " is: " + primeNumbers(limit) + ".");
 
     }
 }
